@@ -1,4 +1,4 @@
-# bdobot.com (deprecated in 2022)
+# bdobot.com (Served & Maintained for 3 years. Deprecated in 2022)
 
 Web Archive Site Link: https://web.archive.org/web/20210225165827/https://bdobot.com/
 
